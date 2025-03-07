@@ -7,7 +7,7 @@ FPV Goggles!
 
 The DJI Moonlight project is made up of three parts:
 
-- **[dji-moonlight-shim](https://github.com/fpv-wtf/dji-moonlight-shim)**: a
+ **[dji-moonlight-shim](https://github.com/fpv-wtf/dji-moonlight-shim)**: a
   goggle-side app that displays a video stream coming in over USB. _You are
   here._
 - **[dji-moonlight-gui](https://github.com/fpv-wtf/dji-moonlight-gui)**: a
